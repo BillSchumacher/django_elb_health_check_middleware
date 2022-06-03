@@ -1,0 +1,5 @@
+django
+behave
+behave-django
+django-environ
+sphinx

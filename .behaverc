@@ -1,0 +1,4 @@
+[behave]
+paths = # elb_health_check/tests/features
+junit_directory = reports
+junit = yes
