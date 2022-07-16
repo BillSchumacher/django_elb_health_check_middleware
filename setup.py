@@ -8,7 +8,7 @@ setup(
     author_email="william.schumacher@gmail.com",
     packages=find_packages(),
     scripts=[],
-    url="https://github.com/BillSchumacher/django-elb-health-check-middleware",
+    url="https://github.com/BillSchumacher/django_elb_health_check_middleware",
     license="MIT",
     description="Process ELB health checks efficiently, no crazy IP lookups.",
     long_description=open("README.rst").read() if exists("README.rst") else "",
